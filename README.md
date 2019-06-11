@@ -1,1 +1,1 @@
-# budget-leqrning
+# budget-learning
